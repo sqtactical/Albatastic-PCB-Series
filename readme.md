@@ -8,8 +8,10 @@ El objetivo de este repositorio es centralizar la documentación, enlaces y refe
 
 ### 📡 Incluye:
 - Albatastic PRO  
-- Albatastic Node  
+- Albatastic Compact
 - Albapipe Meshtastic Node  
+- Albatastic Scout  
+- Albatastic Micro  
 
 ---
 
@@ -21,8 +23,10 @@ The purpose of this repository is to centralize documentation, links, and refere
 
 ### 📡 Includes:
 - Albatastic PRO  
-- Albatastic Node  
+- Albatastic Compact 
 - Albapipe Meshtastic Node  
+- Albatastic Scout  
+- Albatastic Micro  
 
 ---
 
@@ -35,10 +39,10 @@ High-performance Albatastic board designed for robust Meshtastic deployments.
 
 ---
 
-## Albatastic Node
+## Albatastic Compact
 https://github.com/sqtactical/Albatastic_Node
 
-Compact and efficient node focused on general-purpose Meshtastic usage.
+Compact and modular node focused on general-purpose Meshtastic usage.
 
 ---
 
@@ -46,6 +50,20 @@ Compact and efficient node focused on general-purpose Meshtastic usage.
 https://github.com/miguelleonmanzano/Albapipe-Meshtastic-Node
 
 Custom Albatastic-based node designed for flexible and experimental deployments.
+
+---
+
+## Albatastic Scout
+https://github.com/sqtactical/Albatastic-Scout
+
+Barebones, multi-radio solar board designed for efficient client nodes and deployment in temporary locations like campsites.
+
+---
+
+## Albatastic Micro
+https://github.com/sqtactical/PCB-Albatastic-micro
+
+The most compact Albatastic board layout possible, optimized for pure battery operation and pocket-sized client nodes.
 
 ---
 
